@@ -1,8 +1,8 @@
 # Eric Jackson
 
-Systems architect and full-stack builder. Co-founder of [Infinite Visions AI Agents](https://www.infinitevisionsaiagents.com), a Sarasota, Florida AI consultancy. I design and ship AI automations, voice agents, and multi-agent systems for businesses, with one rule: if the system will not pay for itself, we do not build it.
+Systems architect and full-stack builder. Co-founder of [Infinite Visions AI Agents](https://www.infinitevisionsaiagents.com), a Sarasota, Florida software studio. We build the systems a business actually needs, with AI built in, and as custom AI tools, where it earns its place. We are systems builders who use AI well, not an AI company. One rule: if the system will not pay for itself, we do not build it.
 
-I build AI-native. The work is orchestrated by multiple agents and shipped as real working software, not slideware. I favor cheap correctness and deterministic solutions where the problem allows it, and I verify claims with tests rather than asserting them.
+AI is a material I build with and a tool I build faster with, not the point. The work is orchestrated by multiple agents and shipped as real working software, not slideware. I favor cheap correctness and deterministic solutions where the problem allows it, I put AI in only where it earns its cost, and I verify claims with tests rather than asserting them.
 
 ## How I Build
 
@@ -31,7 +31,7 @@ I build AI-native. The work is orchestrated by multiple agents and shipped as re
 
 ## Focus Areas
 
-Multi-agent orchestration, real-time voice AI, vision-driven computer-use automation, MCP server design, applied LLM-inference research, and production tooling for AI-native development.
+Full-stack systems and web applications, automation and system integration, and AI built into systems where it pays: voice agents, multi-agent orchestration, MCP servers, computer-use automation, and applied LLM-inference work.
 
 **Tech:** Python, JavaScript, TypeScript, Node.js, FastAPI, SQLite, Docker, PyTorch, Anthropic Claude, MCP, Phaser, Next.js.
 
